@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Samantha Rodriguez: Bienvenido a mi página
 ---
 
